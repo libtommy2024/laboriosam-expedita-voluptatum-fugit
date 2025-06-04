@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/laboriosam-expedita-voluptatum-fugit",
-  "version": "10.28.370",
+  "version": "10.29.370",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -309,5 +309,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/laboriosam-expedita-voluptatum-fugit/issues"
   },
-  "packageManager": "yarn@4.9.1"
+  "packageManager": "yarn@4.9.2"
 }
